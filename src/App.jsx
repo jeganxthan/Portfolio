@@ -10,7 +10,7 @@ const App = () => {
     < >
       <Navbar/>
       <Hero/>
-      <div className='md:mt-[-130px] mt-[60px]'>
+      <div className='md:mt-[-130px] '>
         <About />
       </div>
       <div className='md:mt-16 mt-[-30px]'>
